@@ -1,0 +1,15 @@
+{
+    "alunos": [
+        {
+            "nome": "makake",
+            "idade": 12,
+            "matricula": "12324"
+        },
+        {
+            "nome": "marcelo",
+            "idade": 18,
+            "matricula": "1234"
+        }
+    ],
+    "professores": []
+}
